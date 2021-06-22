@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>作者名</item>
+        <item>书籍名</item>
+        <item>类别</item>
+    </string-array>
+</resources>
